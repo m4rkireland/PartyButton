@@ -1,4 +1,3 @@
-# PartyButton
-The Party Button
+# The Party Button
 
 http://markireland.me/the-party-button
